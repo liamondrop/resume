@@ -1,9 +1,9 @@
 ## EDUCATION
 
-- ##### Aug 2015 - Present:
-    ###### Georgia Institute of Technology
+- ##### Georgia Institute of Technology
+    ###### Aug 2015 - Present
     Master of Science in Computer Science: Computational Perception & Robotics
 
-- ##### 1998─2002
-    ###### Cleveland Institute of Art
+- ##### Cleveland Institute of Art
+    ###### 1998─2002
     Bachelor of Fine Arts: Glass Sculpture
