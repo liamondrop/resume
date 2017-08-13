@@ -1,10 +1,17 @@
-## EXPERIENCE
+### EXPERIENCE
+
+##### Self-Driving Car Engineer: Udacity
+###### Mar 2017 - Present
+- Implemented Extended and Unscented Kalman Filters in C++ to fuse Lidar and Radar measurements.
+- Built a vehicle detection pipeline that finds and tracks cars in a video stream, using Histogram of Oriented Gradients (HOG), and Support Vector Machines.
+- Modeled NVIDIA's end to end learning solution using Keras to teach a convolutional neural net to steer a car using recorded images of human driving and corresponding steering angles as inputs.
+- Built a traffic sign classifier using Tensorflow capable of classifying traffic signs with an accuracy of over 98%.
 
 ##### Senior Software Engineer: Lifion by ADP
 ###### Mar 2016 - Present
 - Designed and implemented a metadata-driven platform for application development using Node.js, React, Redux, Jest, etc.
 - Developed cross-platform React Native bridges for native iOS/Android
-- Led a team of 10 application developers in New York, Israel, and India
+- Led a team of 10 geographically distributed application developers across 3 continents
 - Helped foster a culture of testing and code review
 
 ##### Senior Software Engineer: Insight Catastrophe Group

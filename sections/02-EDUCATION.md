@@ -1,4 +1,4 @@
-## EDUCATION
+### EDUCATION
 
 ##### Georgia Institute of Technology
 ###### Aug 2015 - Present
