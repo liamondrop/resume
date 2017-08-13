@@ -1,0 +1,17 @@
+{
+  "name": "liam-resume",
+  "version": "1.0.0",
+  "scripts": {
+    "cat": "awk 'FNR==1 && NR>1 { printf(\"\\n\") }1' sections/*.md > README.md",
+    "pdf": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamondrop/resume.git"
+  },
+  "author": "Liam Bowers",
+  "homepage": "https://github.com/liamondrop/resume#readme",
+  "dependencies": {
+    "markdown-pdf": "^8.0.0"
+  }
+}
