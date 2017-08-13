@@ -9,7 +9,7 @@ help:
 	@echo ""
 
 cat:
-	@awk 'FNR==1 { printf("\n") }1' sections/*.md > README.md
+	@awk 'FNR==1 && NR>1 { printf("\n") }1' sections/*.md > README.md
 
 pdf:
 	@echo "Not implemented."
