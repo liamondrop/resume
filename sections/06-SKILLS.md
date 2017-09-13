@@ -1,11 +1,13 @@
 <section id="skills" class="row clearfix">
 
-  - JavaScript
   - Python
   - C/C++
-  - React/React Native
+  - JavaScript
+  - Test-driven Development
   - Tensorflow/Keras
   - Computer Vision
+  - Numpy/Scikit-Learn
+  - React/React Native
 
 </section>
 

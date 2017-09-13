@@ -5,7 +5,7 @@ const inputs = [
   'sections/06-SKILLS.md',
   'sections/02-EDUCATION.md',
   'sections/03-EXPERIENCE.md',
-  'sections/04-ACTIVITIES.md',
+  'sections/05-PROJECTS.md',
 ];
 
 const output = 'RESUME.pdf';

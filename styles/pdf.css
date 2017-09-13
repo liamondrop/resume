@@ -6,8 +6,9 @@
 
 body {
   box-sizing: border-box;
+  font-family: Consolas;
   font-size: 9px;
-  margin: -20px 0;
+  margin: -15px 0 -20px;
   padding: 0;
   color: #333;
   font-weight: 300;
@@ -27,22 +28,21 @@ a {
 dl,
 ol,
 ul {
+  margin-left: 0;
+  padding-left: 1rem;
 }
 
 ul {
+  margin-top: 0;
 }
 
 dd,
 dt,
 li {}
 
-dl,
-ol,
-p,
-ul {}
-
 p {
   margin-top: 0;
+  margin-bottom: 0.25rem;
 }
 
 h1,
@@ -50,7 +50,9 @@ h2,
 h3,
 h4,
 h5,
-h6 {}
+h6 {
+  margin-bottom: 0.6rem;
+}
 
 @media print {
   a[href]:after {
@@ -59,14 +61,12 @@ h6 {}
 }
 
 .row ul {
-  list-style: circle;
   margin-left: 0;
 }
 
 .row ul > li {
   float: left;
-  width: 33%;
-  margin-left: 0;
+  width: 25%;
 }
 
 .clearfix:after {
