@@ -74,3 +74,9 @@ h6 {
   display: table;
   clear: both;
 }
+
+.date {
+  float: right;
+  color: #888;
+  font-style: italic;
+}

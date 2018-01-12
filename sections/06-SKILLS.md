@@ -4,10 +4,10 @@
   - C/C++
   - JavaScript
   - Test-driven Development
-  - Tensorflow/Keras
   - Computer Vision
-  - Numpy/Scikit-Learn
-  - React/React Native
+  - Sensor Fusion
+  - Localization
+  - Tensorflow/Keras
 
 </section>
 

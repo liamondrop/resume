@@ -1,15 +1,11 @@
 ### EDUCATION
 
-**Udacity** (Feb 2017 - Present)
+**Georgia Institute of Technology** <span class="date">Aug 2015 - Dec 2018</span>
 
-Self-Driving Car Engineer Nanodegree
+  - Master of Science in Computer Science: Computational Perception & Robotics
 
-**Georgia Institute of Technology** (Aug 2015 - Present)
+**Udacity** <span class="date">Feb 2017 - Dec 2017</span>
 
-Master of Science in Computer Science: Computational Perception & Robotics
-
-**Cleveland Institute of Art** (Jan 1998 - May 2002)
-
-Bachelor of Fine Arts: Glass Sculpture
+  - Self-Driving Car Engineer Nanodegree
 
 ---
