@@ -1,7 +1,7 @@
 ### EXPERIENCE
 
 **Senior Software Engineer: Lifion by ADP** <span class="date">Mar 2016 - Present</span>
-- Delivering the runtime of a metadata-driven application platform for application development across web and mobile, using Node.js, React Native, Redux, Jest
+- Delivering the runtime of a metadata-driven platform for application development across web and mobile, using Node.js, React Native, Redux, Jest
 - Helping foster a culture of rigorous testing and code review, improving code quality and productivity across the teams to which I contribute
 
 **Senior Software Engineer: Insight Catastrophe Group** <span class="date">Feb 2014 – Mar 2016</span>
