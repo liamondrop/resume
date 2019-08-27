@@ -1,3 +1,3 @@
-Designing and implementing technically sophisticated, well-tested and performant applications in JavaScript, Python, C++ and more. Falling in ❤️️ with AI and Self-driving Cars...
+Engineer with the ❤️ of a craftsperson, passionate about delivering safe, correct, & performant software. Skills include ROS, TensorFlow, Python, JavaScript, and C++
 
 ---

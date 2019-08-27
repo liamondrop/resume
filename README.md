@@ -1,57 +1,70 @@
-## LIAM BOWERS
+# LIAM BOWERS
 
-347.210.8081 | liamondrop@gmail.com | [github.com/liamondrop](https://github.com/liamondrop) | [linkedin.com/in/liamondrop](https://linkedin.com/in/liamondrop)
+(347) 210-8081  &middot;  liamondrop@gmail.com  &middot;  [github.com/liamondrop](https://github.com/liamondrop)  &middot;  [linkedin.com/in/liamondrop](https://linkedin.com/in/liamondrop)
 
 ---
 
-Designing and implementing technically sophisticated, well-tested and performant applications in JavaScript, Python, C++ and more. Falling in ❤️️ with AI and Self-driving Cars...
+Engineer with the ❤️ of a craftsperson, passionate about delivering safe, correct, & performant software. Skills include ROS, TensorFlow, Python, JavaScript, and C++
 
 ---
 
 ### EDUCATION
 
-**Udacity** (Feb 2017 - Present)
+**Georgia Institute of Technology** &middot; *Aug 2015 - Present*
 
-Self-Driving Car Engineer Nanodegree
+  - Master of Science in Computer Science: Computational Perception & Robotics
 
-**Georgia Institute of Technology** (Aug 2015 - Present)
+**Udacity** &middot; *Feb 2017 - Dec 2017*
 
-Master of Science in Computer Science: Computational Perception & Robotics
+  - Self-Driving Car Engineer Nanodegree
 
-**Cleveland Institute of Art** (Jan 1998 - May 2002)
+**Cleveland Institute of Art** &middot; *Jan 1998 - May 2002*
 
-Bachelor of Fine Arts: Glass Sculpture
-
----
+  - Bachelor of Fine Arts: Glass Sculpture
 
 ### EXPERIENCE
 
-**Senior Software Engineer: Lifion by ADP** (Mar 2016 - Present)
-- Delivered a general purpose, metadata-driven platform for web application development using Node.js, React, Redux, Jest, etc. and currently doing it again on mobile with React Native
-- Helping foster a culture of rigorous testing and code review, improving code quality and productivity across the teams to which I contribute
+**Software Engineer, Autonomous Driving: Ridecell** &middot; *Jul 2018 - Present*
+- Currently working on research and development of a machine learning architecture for behavior, planning, and control
+- Built several tools to support various aspects of the Human-Machine Interface of the Auro autonomous vehicle platform, including a vehicle status logging pipeline for remote monitoring and analytics, and a dashboard to rapidly launch, monitor, and stop the various subsystems of the autonomy stack
 
-**Senior Software Engineer: Insight Catastrophe Group** (Feb 2014 – Mar 2016)
-- Built modular, multi-layered, full-stack applications in Backbone, React, Node.js and Express to manage the underwriting and servicing of insurance policies and quotes
-- Enabled product team to rapidly create their own policy and underwriting products by creating automated build tooling, drastically improving developer productivity and reducing deployment error
+**Senior Software Engineer: Lifion by ADP** &middot; *Mar 2016 - May 2018*
+- Delivered the runtime of a metadata-driven platform for application development across web and mobile, using Node.js, React Native, Redux, Jest
+- Helped foster a culture of rigorous testing and code review, improving code quality and productivity for the web and mobile teams
 
-**Web Developer: Artspace Marketplace** (Jan 2013 – Feb 2014)
-- Built the home, artworks, artists, shopping cart, etc. pages using Backbone.js and Django
-- Improved site reliability by implementing graceful degradation strategies for legacy browsers
-- Reduced page load time by 80% and improved site performance across the stack by redesigning static asset build and deployment pipeline
+**Senior Software Engineer: Insight Catastrophe Group** &middot; *Feb 2014 – Mar 2016*
+- Built modular, full-stack applications in Backbone, React, Ruby, and Node.js to manage the underwriting and servicing of insurance policies and quotes
+- Enabled product team to rapidly create their own policy and underwriting products by creating automated build tooling
 
-**Web Developer: SeatGeek** (Sep 2010 – Dec 2012)
-- Streamlined the production of 100s of seating charts for sports and concert venues by managing a distributed team of illustrators
-- Built several major public facing features, including interactive seating charts, events calendar, ad platform and more using Symfony on the server and Backbone.js on the client
+**Web Developer: Artspace Marketplace** &middot; *Jan 2013 – Feb 2014*
+- Modernized and maintained the Artspace online galleries and e-commerce platforms
+- Improved site reliability for modern and legacy browsers, reduced page load time by 80%, and improved site performance by redesigning static asset build and deployment pipeline
+
+**Web Developer: SeatGeek** &middot; *Sep 2010 – Dec 2012*
+- Streamlined the production and deployment of 100s of seating charts for sports and concerts
+- Built interactive seating charts, events calendar, ad platform and more using Symfony on the server and Backbone.js on the client
+
+---
+
+### Skills
+
+  - Python
+  - JavaScript
+  - C/C++
+  - Tensorflow/Keras
+  - ROS
+  - Kafka
+  - Test-Driven Development
 
 ---
 
----
+### RECENT PROJECTS
 
-### ACTIVITIES
+**Road Classifier (Semantic Segmentation)** - [github.com/liamondrop/semantic-segmentation](https://github.com/liamondrop/semantic-segmentation) <span class="date">Dec 2017</span>
+  - Classifying the road in a series of images with a Fully Convolutional Network
 
-**[DIY Robocars NYC](https://www.meetup.com/DIY-Robocars-NYC/): Organizer** (Jun 2017 – Present)
+**Path Planner** - [github.com/liamondrop/path-planning](https://github.com/liamondrop/path-planning) <span class="date">Nov 2017</span>
+  - Safely navigate a vehicle around a virtual highway filled with traffic
 
-**[Self Driving Cars + Autonomous Vehicles Group](https://www.meetup.com/The-Self-driving-Cars-Autonomous-Vehicles-Group/): Organizer** (May 2017 – Present)
-
-
----
+**Model Predictive Controller** - [github.com/liamondrop/model-predictive-control](https://github.com/liamondrop/model-predictive-control) <span class="date">Sep 2017</span>
+  - Enables a vehicle to safely follow a pre-determined path at high speed

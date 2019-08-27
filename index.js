@@ -2,10 +2,9 @@ var markdownpdf = require('markdown-pdf');
 
 const inputs = [
   'sections/00-HEADER.md',
-  'sections/06-SKILLS.md',
-  'sections/02-EDUCATION.md',
+  'sections/01-PROFILE.md',
   'sections/03-EXPERIENCE.md',
-  'sections/05-PROJECTS.md',
+  'sections/02-EDUCATION.md',
 ];
 
 const output = 'RESUME.pdf';

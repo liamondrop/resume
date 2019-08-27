@@ -12,6 +12,6 @@
   "author": "Liam Bowers",
   "homepage": "https://github.com/liamondrop/resume#readme",
   "dependencies": {
-    "markdown-pdf": "^8.0.0"
+    "markdown-pdf": "^10.0.0"
   }
 }
