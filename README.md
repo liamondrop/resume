@@ -8,19 +8,17 @@ Engineer with the ❤️ of a craftsperson, passionate about delivering safe, co
 
 ---
 
-### EDUCATION
+### Skills
 
-**Georgia Institute of Technology** &middot; *Aug 2015 - Present*
+  - Python
+  - JavaScript
+  - C/C++
+  - Tensorflow/Keras
+  - ROS
+  - Kafka
+  - Test-Driven Development
 
-  - Master of Science in Computer Science: Computational Perception & Robotics
-
-**Udacity** &middot; *Feb 2017 - Dec 2017*
-
-  - Self-Driving Car Engineer Nanodegree
-
-**Cleveland Institute of Art** &middot; *Jan 1998 - May 2002*
-
-  - Bachelor of Fine Arts: Glass Sculpture
+---
 
 ### EXPERIENCE
 
@@ -46,15 +44,19 @@ Engineer with the ❤️ of a craftsperson, passionate about delivering safe, co
 
 ---
 
-### Skills
+### EDUCATION
 
-  - Python
-  - JavaScript
-  - C/C++
-  - Tensorflow/Keras
-  - ROS
-  - Kafka
-  - Test-Driven Development
+**Georgia Institute of Technology** &middot; *Aug 2015 - Present*
+
+  - Master of Science in Computer Science: Computational Perception & Robotics
+
+**Udacity** &middot; *Feb 2017 - Dec 2017*
+
+  - Self-Driving Car Engineer Nanodegree
+
+**Cleveland Institute of Art** &middot; *Jan 1998 - May 2002*
+
+  - Bachelor of Fine Arts: Glass Sculpture
 
 ---
 
