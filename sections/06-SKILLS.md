@@ -3,10 +3,9 @@
   - Python
   - JavaScript
   - C/C++
-  - Tensorflow/Keras
+  - Tensorflow
   - ROS
-  - Kafka
-  - Test-Driven Development
+  - Unity3D
 
 </section>
 
